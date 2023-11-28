@@ -1,0 +1,9 @@
+# search
+df=dp.read_csv()
+df=df.set_index() #changed table
+#konw the data location
+df.loc[]
+df.iloc[]
+#bool
+use series seires 1=df.xx  seires2=seires1>< etc.    df_new=df [series2]
+   
